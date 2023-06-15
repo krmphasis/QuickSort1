@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kunalrelan/Projects/QuickSort/QuickSort/QuickSort.csproj": {}
+    "/Users/kunalrelan/Desktop/Projects/QuickSort/QuickSort.csproj": {}
   },
   "projects": {
-    "/Users/kunalrelan/Projects/QuickSort/QuickSort/QuickSort.csproj": {
+    "/Users/kunalrelan/Desktop/Projects/QuickSort/QuickSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kunalrelan/Projects/QuickSort/QuickSort/QuickSort.csproj",
+        "projectUniqueName": "/Users/kunalrelan/Desktop/Projects/QuickSort/QuickSort.csproj",
         "projectName": "QuickSort",
-        "projectPath": "/Users/kunalrelan/Projects/QuickSort/QuickSort/QuickSort.csproj",
+        "projectPath": "/Users/kunalrelan/Desktop/Projects/QuickSort/QuickSort.csproj",
         "packagesPath": "/Users/kunalrelan/.nuget/packages/",
-        "outputPath": "/Users/kunalrelan/Projects/QuickSort/QuickSort/obj/",
+        "outputPath": "/Users/kunalrelan/Desktop/Projects/QuickSort/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kunalrelan/.nuget/NuGet/NuGet.Config"
